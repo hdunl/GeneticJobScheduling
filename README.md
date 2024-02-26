@@ -1,6 +1,6 @@
 # Genetic Algorithm for Job Scheduling
 
-This repository contains a Genetic Algorithm (GA) implementation in Python for solving job scheduling problems. The GA aims to optimize the assignment of job operations to machines while minimizing the makespan, i.e., the total time taken to complete all jobs. This is beginner-level code, as this topic is new to me; this was just for fun.
+Genetic Algorithm (GA) implementation in Python for solving job scheduling problems. The GA aims to optimize the assignment of job operations to machines while minimizing the makespan, i.e., the total time taken to complete all jobs. This is beginner-level code, as this topic is new to me; this was just for fun.
 
 ## Overview
 
